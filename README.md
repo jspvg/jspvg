@@ -1,25 +1,31 @@
-<h1 align="center">Hi 👋, I'm Gabrijela</h1>
-<h3 align="center">A passionate frontend developer from Croatia</h3>
+# Hi, I'm Gabrijela! 👋🏻
 
-- 🔭 I’m currently working on [a frontendmentor challenge](https://github.com/jspvg/react-landing-page)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **React in-depth & NextJS**
+<h3>I'm a web developer focused on <img src="https://api.iconify.design/teenyicons:javascript-outline.svg" alt="JavaScript" height="20"/> & <img src="https://api.iconify.design/teenyicons:typescript-outline.svg" alt="JavaScript" height="20"/>. </h3> 
+<h3>Constantly exploring new ways to do things, especially in the world of development!</h3>
 
-- 💬 Ask me about **anything digital, baking, or Formula 1**
+## 🛠 Tech Stack
 
-- 📫 How to reach me **gabrijelajosipovic1@gmail.com**
+<h2 align="left">
+  <p>I am mostly working on things using</p>
+  <img src="https://api.iconify.design/bxl:react.svg" height="30" />
+  <img src="https://api.iconify.design/ph:file-html-light.svg" height="30" />
+  <img src="https://api.iconify.design/ph:file-css-light.svg" height="30" />
+  <img src="https://api.iconify.design/tabler:brand-bootstrap.svg" height="30" />
+  <p>But I'm not opposed to learning new tech either.</p>
+</h2>
 
-- ⚡ Fun fact **I'm the go-to person for random useless facts**
+#
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrijelajspvc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrijelajspvc/" height="30" width="40" /></a>
-</p>
+### 👩‍💻 I'm currently working on project plans related to edutech while expanding my existing knowledge...
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🧠 I'm currently learning about unit testing...
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jspvg&show_icons=true&locale=en&layout=compact" alt="jspvg" /></p>
+### 👯‍♀️ I'm looking to collaborate on anything, I am passionate about edutech and productivity tools, but I won't pass up on an opportunity to learn something new...
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jspvg&show_icons=true&locale=en" alt="jspvg" /></p>
+### 💬 Ask me about React, Formula 1 :racing_car: & baking :cookie:...
 
+### 📫 How to reach me gabrijelajosipovic1@gmail.com
+
+### ⚡️ Did you know that the word "debugging" came to be after Grace Hopper was removing an actual moth from a computer after it was causing a malfunction? Now you do...
