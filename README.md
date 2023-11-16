@@ -16,8 +16,6 @@
   <p>But I'm not opposed to learning new tech either.</p>
 </h2>
 
-#
-
 ### 👩‍💻 I'm currently working on project plans related to edutech while expanding my existing knowledge...
 
 ### 🧠 I'm currently learning about unit testing...
@@ -29,3 +27,6 @@
 ### 📫 How to reach me gabrijelajosipovic1@gmail.com
 
 ### ⚡️ Did you know that the word "debugging" came to be after Grace Hopper was removing an actual moth from a computer after it was causing a malfunction? Now you do...
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jspvg&show_icons=true&locale=en&layout=compact&theme=dark" alt="jspvg" /></p>
+
