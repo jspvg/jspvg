@@ -16,17 +16,15 @@
   <p>But I'm not opposed to learning new tech either.</p>
 </h2>
 
-### 👩‍💻 I'm currently working on project plans related to edutech while expanding my existing knowledge...
+### 👩‍💻 I'm currently working on [a link sharing app](https://github.com/jspvg/link-sharing-app)...
 
-### 🧠 I'm currently learning about unit testing...
+### 🧠 I'm currently learning about unit testing within React
 
-### 👯‍♀️ I'm looking to collaborate on anything, I am passionate about edutech and productivity tools, but I won't pass up on an opportunity to learn something new...
+### 👯‍♀️ I'm looking to collaborate on anything, I am passionate about edutech and productivity tools, but I won't pass up on an opportunity to learn and work on something new!
 
-### 💬 Ask me about React, Formula 1 :racing_car: & baking :cookie:...
+### 💬 Ask me anything about React, Formula 1 :racing_car: & baking :cookie:, I'd love to talk!
 
-### 📫 How to reach me gabrijelajosipovic1@gmail.com
+### 📫 You can reach me @ gabrijelajosipovic1@gmail.com
 
-### ⚡️ Did you know that the word "debugging" came to be after Grace Hopper was removing an actual moth from a computer after it was causing a malfunction? Now you do...
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jspvg&show_icons=true&locale=en&layout=compact&theme=dark" alt="jspvg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jspvg&show_icons=true&locale=en&layout=compact&theme=dark" alt="jspvg" /></p>
 
