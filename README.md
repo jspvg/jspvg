@@ -23,6 +23,3 @@
 ### 💬 Ask me anything about React, Formula 1 :racing_car: & baking :cookie:, I'd love to talk!
 
 ### 📫 You can reach me @ gabrijelajosipovic1@gmail.com
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jspvg&show_icons=true&locale=en&layout=compact&theme=dark" alt="jspvg" /></p>
-
