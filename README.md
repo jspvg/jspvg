@@ -16,9 +16,7 @@
   <p>But I'm not opposed to learning new tech either.</p>
 </h2>
 
-### 👩‍💻 I'm currently working on [a link sharing app](https://github.com/jspvg/link-sharing-app)...
-
-### 🧠 I'm currently learning about unit testing within React
+### 👩‍💻 I'm currently working on expanding my React knowledge trough smaller projects
 
 ### 👯‍♀️ I'm looking to collaborate on anything, I am passionate about edutech and productivity tools, but I won't pass up on an opportunity to learn and work on something new!
 
